@@ -17,3 +17,4 @@ https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/signatur
 通过**获取用户信息**接口的返回结果，判断当前用户是否绑定过手机号。如果没有，强制登录。登录绑定接口可以调用公众号的登录接口,
 所需参数mobile，code，openId，nickname，unionId等.
 
+#
